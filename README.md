@@ -59,14 +59,15 @@ Whether you’re cramming for a test, learning a new skill, or just love self-im
 
 ## 🎓 How to Use
 
-1. Run the project in **Xcode** on a simulator or device.  
-2. Add your own flashcards or import existing sets.  
-3. Start a study session! The system will:  
+1. Make sure to open the SmartFlashCards foler in **Xcode** or a simulator device
+2. Run the project in **Xcode** on a simulator or device.
+3. Add your own flashcards or import existing sets.  
+4. Start a study session! The system will:  
    - Show questions based on your past performance  
    - Give AI-powered hints or explanations when you need help  
    - Track and store your progress in Supabase  
 
-4. Review stats to see which topics you’ve mastered and which need more practice.  
+5. Review stats to see which topics you’ve mastered and which need more practice.  
 
 ---
 
