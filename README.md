@@ -39,7 +39,7 @@ Whether you’re cramming for a test, learning a new skill, or just love self-im
 ### Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/smart-flashcards.git
+   git clone https://github.com/Ishany-coder/smartFlashcards.git
    ```
 2. **Go into the project folder**:  
    ```bash
