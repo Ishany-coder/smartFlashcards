@@ -1,7 +1,7 @@
 # 🧠 Smart Flashcards
 
 Smart Flashcards is an **adaptive, AI-powered flashcard system built entirely in Swift**.  
-It’s designed to help you study smarter, not harder, by focusing on what you need to learn most.  
+It’s designed to help you study smarter, not harder, by focusing on **what you need to learn most**.  
 Whether you’re cramming for a test, learning a new skill, or just love self-improvement, this system adapts to **YOU**.  
 
 ---
@@ -41,8 +41,12 @@ Whether you’re cramming for a test, learning a new skill, or just love self-im
    ```bash
    git clone https://github.com/yourusername/smart-flashcards.git
    ```
-2. Open the project in **Xcode**.  
-3. Install dependencies if using Swift Package Manager (SPM).  
+2. **Go into the project folder**:  
+   ```bash
+   cd smart-flashcards
+   ```
+3. Open the project in **Xcode**.  
+4. Install dependencies if using Swift Package Manager (SPM).  
 
 ### Configuration
 1. **Replace API Keys**:  
