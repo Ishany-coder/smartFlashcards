@@ -43,7 +43,7 @@ Whether you’re cramming for a test, learning a new skill, or just love self-im
    ```
 2. **Go into the project folder**:  
    ```bash
-   cd smart-flashcards
+   cd SmartFlashCards
    ```
 3. Open the project in **Xcode**.  
 4. Install dependencies if using Swift Package Manager (SPM).  
